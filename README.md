@@ -1,2 +1,2 @@
 # todolist
-Create a todo list with add new, update/delete existed item
+My application that create new item todo with priority, you can create new, update or delete existed item.
